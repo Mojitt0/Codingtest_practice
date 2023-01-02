@@ -1,0 +1,6 @@
+1. 프로젝트 폴더 생성
+2. 프로젝트 파일 (소스파일, 헤더파일) 생성
+3. CMakeLists.txt 파일 작성
+	ADD_EXECUTABLE( [실행파일명] [ 소스파일들.... (컴파일 필요한 .cpp 파일들만 포함) ] )
+4. cmake CMakeLists.txt 명령어 실행
+5. make 명령어 실행 --> 실행파일 생성됨
