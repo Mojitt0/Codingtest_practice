@@ -1,7 +1,7 @@
 # CodingTest Practice Update Log
 
 2023.01.02  12:02   --> 03-2 clear  
-    cpp파일 QuickSort 구현
+    <ol>cpp파일 QuickSort 구현</ol>  
 
 2023.01.01  11:20   --> 03-1 clear  
   
