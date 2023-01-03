@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    time_t start, end;
+    clock_t start, end;
     double result;
 
     start = time(NULL);
@@ -15,6 +15,6 @@ int main()
     end = time(NULL);
     result = (double)(end-start);
 
-    cout << "수행 시간: " << result << " second" << endl;
+    cout << "수행 시간: " << result << " ms" << endl;
     return 0;
 }
